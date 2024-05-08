@@ -29,3 +29,8 @@ If you're getting an SSL error when you attempt to call out to the Alpaca Tradin
 👨🏾‍💻 Author: Nick Renotte <br />
 📅 Version: 1.x<br />
 📜 License: This project is licensed under the MIT License </br>
+
+# Screenshots
+![Screenshot 2024-05-08 171019](https://github.com/gsmith15/MLTradingBot/assets/23180540/e4d517d8-da68-4877-a95a-e150bc24d392)
+![Screenshot 2024-05-08 171031](https://github.com/gsmith15/MLTradingBot/assets/23180540/c5c5e22c-ba8f-4548-94d8-7affed428173)
+![Screenshot 2024-05-08 154759](https://github.com/gsmith15/MLTradingBot/assets/23180540/e77506e0-8944-412b-b828-b352ac79c095)
